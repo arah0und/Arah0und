@@ -156,9 +156,9 @@ JavaScript • HTML • CSS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arah0und&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arah0und&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
 
 </div>
 
@@ -166,7 +166,7 @@ JavaScript • HTML • CSS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arah0und&theme=github-compact&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -220,6 +220,6 @@ C:\Users\Andrey> contact.exe
 ╚══════════════════════════════════════════════════╝
 © 2026 Andrey — All systems operational.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=green" />
+<img src="https://komarev.com/ghpvc/?username=arah0und&style=flat-square&color=green" />
 
 </div>
