@@ -55,17 +55,7 @@ Short description of your project. -->
 
 
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=arah0und&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arah0und&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=ffffff&text_color=999999" />
-
-</div>
-
----
 
 ## Сейчас:
 
