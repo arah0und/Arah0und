@@ -2,10 +2,9 @@
 
 # Hi, I'm Andrey 👋
 
-### Developer · Student · Creator
+### Not a Developer · Student 
 
-I like building things, learning new technologies
-and turning ideas into working projects.
+tryna put some skills into my brain....
 
 <br>
 
@@ -16,18 +15,19 @@ and turning ideas into working projects.
 
 ---
 
-## Про меня
+## Про меня / About me
 
 ```text
-▸ 💻 пытаюсь че то кодить
-▸ 🧠 учу че то
-▸ 🚀 делаю лабораторки 
-▸ 🌙 не сплю
+▸ 💻 пытаюсь че то кодить / tryna codding 
+▸ 🧠 учу че то / studying something
+▸ 🚀 делаю лабораторки /  Do some practice works
+▸ 🌙 не сплю / dont sleep
 ```
 
 ---
 
-## Че знаю/пытаюсь знать/базовый уровень
+## Че знаю/пытаюсь знать/базовый уровень 
+## Teaching/Know/Wanna know
 
 <div align="center">
 
@@ -57,12 +57,12 @@ Short description of your project. -->
 
 
 
-## Сейчас:
+## Сейчас:  / Now:
 
 ```text
-Работаю над     → Лабораторками
-Учу             → C#,C++,JAVA.
-Цель            → Сделать что то качественное самостоятельно
+Работаю над / Working on     → Лабораторками / labs
+Учу / learning               → C#,C++,JAVA.
+Цель / goal                   → Сделать что то качественное самостоятельно / Tryna do some good stuff from my "coding"
 ```
 
 ---
