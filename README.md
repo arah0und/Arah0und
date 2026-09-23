@@ -31,7 +31,7 @@ tryna put some skills into my brain....
 
 <div align="center">
 
-!
+
 ![Git](https://img.shields.io/badge/Git-181717?style=flat-square\&logo=git\&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square\&logo=linux\&logoColor=FCC624)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
