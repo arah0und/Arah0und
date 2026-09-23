@@ -18,7 +18,7 @@ tryna put some skills into my brain....
 ## Про меня / About me
 
 ```text
-▸ 💻 пытаюсь че то кодить / tryna codding 
+▸ 💻 пытаюсь че то кодить / tryna coding 
 ▸ 🧠 учу че то / studying something
 ▸ 🚀 делаю лабораторки /  Do some practice works
 ▸ 🌙 не сплю / dont sleep
